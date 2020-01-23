@@ -4,10 +4,10 @@ import { MdAdd } from 'react-icons/md'
 import { Container } from './styles';
 import Card from "../card"; 
 
-export default function list({data}) {
+export default function List({data, index:listIndex}) {
 
   return (
-    <Container>
+    <Container done={data.done}>
 
       <header>
         <h2>
@@ -22,7 +22,7 @@ export default function list({data}) {
       </header>
 
       <ul>
-        {data.cards.map(e => <Card key={e.id} data={e}/>)}
+        { data.cards.map((e, index) => <Card key={e.id} listIndex={listIndex} index={index} data={e}/>)}
       </ul>
     </Container>
   );

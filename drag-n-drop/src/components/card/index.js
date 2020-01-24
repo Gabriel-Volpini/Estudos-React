@@ -50,8 +50,10 @@ export default function Card({ data, index, listIndex }) {
       <header>
         {data.labels.map(label => <Label key={label} color={label} />)}
       </header>
-      <p>{data.content}</p>
-      {data.user && <img src={data.user} alt="" />}
+      <div className="card-content-wrapper">
+        {data.user && <img src={data.user} alt="" />}
+        <p>{data.content}</p>
+      </div>
     </Container>
   );
 }

@@ -18,15 +18,21 @@ export const Container = styled.div`
   }
 
   img {
-      width:24px;
-      height:24px;
-      border-radius:2px;
+      width:40px;
+      height:40px;
+      border-radius:50%;
       margin-top:5px;
   }
 
   p{
     font-weight:500;
     line-height:20px;
+  }
+
+  .card-content-wrapper{
+    display:flex;
+    align-items:center;
+    margin-left: 11px
   }
 
   ${props => props.isDragging && css`

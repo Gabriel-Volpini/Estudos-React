@@ -6,33 +6,33 @@ export function loadLists() {
         cards: [
           {
             id: 1,
-            content: 'Estudar módulo 01 de NodeJS',
+            content: 'Fazer app Sysdam',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://media-exp1.licdn.com/dms/image/C5603AQEkyioiwm7lOg/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=s2x9vW03LRxrAueIyNRaJvNAadp1l62i-ssfF1MCcaE'
           },
           {
             id: 2,
-            content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
+            content: 'Fazer app Sysdam',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://media-exp1.licdn.com/dms/image/C5603AQEkyioiwm7lOg/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=s2x9vW03LRxrAueIyNRaJvNAadp1l62i-ssfF1MCcaE'
           },
           {
             id: 3,
-            content: 'Estudar módulo 03 de React Native',
+            content: 'Fazer app Sysdam',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://media-exp1.licdn.com/dms/image/C5603AQEkyioiwm7lOg/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=s2x9vW03LRxrAueIyNRaJvNAadp1l62i-ssfF1MCcaE'
           },
           {
             id: 4,
-            content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
+            content: 'Fazer app Sysdam',
             labels: ['#54e1f7'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://media-exp1.licdn.com/dms/image/C5603AQEkyioiwm7lOg/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=s2x9vW03LRxrAueIyNRaJvNAadp1l62i-ssfF1MCcaE'
           },
           {
             id: 5,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Fazer app Sysdam',
             labels: ['#54e1f7'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://media-exp1.licdn.com/dms/image/C5603AQEkyioiwm7lOg/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=s2x9vW03LRxrAueIyNRaJvNAadp1l62i-ssfF1MCcaE'
           },
         ]
       },
@@ -42,9 +42,9 @@ export function loadLists() {
         cards: [
           {
             id: 6,
-            content: 'Recriando clone do Pipefy',
+            content: 'Fazer app Sysdam',
             labels: [],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://media-exp1.licdn.com/dms/image/C5603AQEkyioiwm7lOg/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=s2x9vW03LRxrAueIyNRaJvNAadp1l62i-ssfF1MCcaE'
           }
         ]
       },
@@ -54,15 +54,15 @@ export function loadLists() {
         cards: [
           {
             id: 7,
-            content: 'Gravar sobre Geolocalização e mapas com React Native',
+            content: 'Fazer app Sysdam',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://media-exp1.licdn.com/dms/image/C5603AQEkyioiwm7lOg/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=s2x9vW03LRxrAueIyNRaJvNAadp1l62i-ssfF1MCcaE'
           },
           {
             id: 8,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Fazer app Sysdam',
             labels: ['#54e1f7'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://media-exp1.licdn.com/dms/image/C5603AQEkyioiwm7lOg/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=s2x9vW03LRxrAueIyNRaJvNAadp1l62i-ssfF1MCcaE'
           },
           {
             id: 9,
@@ -78,17 +78,17 @@ export function loadLists() {
         cards: [
           {
             id: 10,
-            content: 'Gravar aula sobre deploy e CI com React Native',
+            content: 'Fazer app Sysdam',
             labels: [],
           },
           {
             id: 12,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Fazer app Sysdam',
             labels: ['#54e1f7'],
           },
           {
             id: 13,
-            content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
+            content: 'Fazer app Sysdam',
             labels: ['#7159c1'],
           }
         ]
